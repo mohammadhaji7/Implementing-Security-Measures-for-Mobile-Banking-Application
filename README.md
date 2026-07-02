@@ -140,7 +140,7 @@ The assessment focused on identifying common mobile application vulnerabilities,
 
 ## MobSF Static Analysis Dashboard
 
-![MobSF Overview](screenshots/mobsf-app-overview-dashboard.png)
+[![MobSF Overview](screenshots/mobsf-app-overview-dashboard.png)](https://github.com/mohammadhaji7/Implementing-Security-Measures-for-Mobile-Banking-Application/blob/8fdaaedc5c65da65b1f7b3eb01f5d4fa4ee21d71/screenshots/mobsf-app-overview-dashboard.png)
 
 ---
 
